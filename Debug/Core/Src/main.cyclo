@@ -1,0 +1,8 @@
+main.c:88:9:computeProportionForwardDrive	1
+main.c:92:9:computeProportionBackwardDrive	1
+main.c:96:9:computeLeftServo	2
+main.c:103:9:computeRightServo	2
+main.c:118:5:main	36
+main.c:339:6:SystemClock_Config	3
+main.c:382:6:HAL_UART_RxCpltCallback	5
+main.c:416:6:Error_Handler	1
